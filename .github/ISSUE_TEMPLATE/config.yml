@@ -1,0 +1,8 @@
+blank_issues_enabled: false
+contact_links:
+  - name: FEIVEN Discord
+    url: https://discord.gg/nrUy3g7gQ
+    about: GitHub 계정이 없거나 빠르게 물어보고 싶다면 Discord로 제보·문의하세요. 점검·혼잡 공지도 여기에 올라옵니다.
+  - name: 플레이테스트 안내 README
+    url: https://github.com/hsdc1258/feiven-playtest#readme
+    about: 설치 경고 처리, 파일 해시 확인, 계정 만들기, 대기열·혼잡 안내, 제거 방법이 정리되어 있습니다.
